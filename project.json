@@ -3,7 +3,8 @@
   "description": "Calculate Client Security Hash - Modern Activities",
   "main": "Main.xaml",
   "dependencies": {
-    "ACMESystem1.Activities": "[0.0.1]",
+    "ACMESystem1.Activities": "[0.0.2]",
+    "SHA1Online.Activities": "[0.0.8]",
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.System.Activities": "[21.4.1]",
     "UiPath.UIAutomation.Activities": "[21.4.4]"
@@ -12,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.3.0",
-  "projectVersion": "0.0.2",
+  "projectVersion": "0.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
